@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SpinachScenes/NPCInteractionsScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/SpinachScenes/SpinachTitleScene.unity
+    guid: f2d0032e086f16c4aaf4705d9596b4ad
+  - enabled: 1
+    path: Assets/SpinachScenes/Spinach.unity
+    guid: c66b5b5352ce58848b4f5d9c63920c87
+  - enabled: 1
+    path: Assets/SpinachScenes/SpinachWin.unity
+    guid: 82f6271eec6e82d418a6186305bd4eb2
+  - enabled: 1
+    path: Assets/SpinachScenes/SpinachLoss.unity
+    guid: c961270282acda3418274e294a0c3f33
+  - enabled: 1
+    path: Assets/SpinachScenes/SpinachMp.unity
+    guid: ae07deb0c7adf044b8af256b800654d3
+  - enabled: 0
+    path: Assets/SpinachScenes/SpinachB2.unity
+    guid: 491af5f68edc13345894b338c3f3e6ed
+  - enabled: 1
+    path: Assets/SpinachScenes/SpinachMP2.unity
+    guid: e025609281d6d31428b5249c61bda1fe
+  m_configObjects: {}
